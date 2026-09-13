@@ -76,6 +76,9 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 
   **TABULATION:**
+
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 08 PM (1)" src="https://github.com/user-attachments/assets/bed23c4b-dcc6-4c0c-8ff2-96d5f2c851f3" />
+
  
 
 **MODEL CALCULATION:**
@@ -94,7 +97,19 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
   **TABULATION:**
 
- 
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 10 PM (1)" src="https://github.com/user-attachments/assets/6ae16033-5902-4eec-9cb6-74365ab2ad8e" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 09 PM (1)" src="https://github.com/user-attachments/assets/97cf41dd-801b-41b1-9a24-f6a4778d212b" />
+
+
+
+
+ **Graph**
+
+ <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 09 PM" src="https://github.com/user-attachments/assets/7b331dfc-a360-423a-82f5-24d3b9d5f4fa" />
+ <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 10 PM (1)" src="https://github.com/user-attachments/assets/aae627eb-34d3-4f00-b1b3-02a7bf68cdda" />
+
+
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -107,6 +122,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 14 PM" src="https://github.com/user-attachments/assets/1c3f7b36-6199-44bf-afc9-4b8666dbc620" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 13 PM" src="https://github.com/user-attachments/assets/87c04953-efaf-4b4c-b5e2-9428dee56e07" />
+
   
 
 **RESULT:**
