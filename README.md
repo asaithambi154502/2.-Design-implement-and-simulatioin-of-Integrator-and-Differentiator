@@ -63,10 +63,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+  
 <img width="673" height="342" alt="image" src="https://github.com/user-attachments/assets/cb9bb860-2f76-498a-b894-eca11d8dfcc9" />
 
 
   **MODEL GRAPH:**
+  
 <img width="587" height="360" alt="image" src="https://github.com/user-attachments/assets/33902be2-5eb2-4096-9dc7-86ba4caca099" />
 
 <img width="762" height="472" alt="image" src="https://github.com/user-attachments/assets/3637de74-f46b-4bdb-8652-eaa203695036" />
@@ -80,11 +82,13 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
+  
   <img width="636" height="367" alt="image" src="https://github.com/user-attachments/assets/698594d6-e334-4800-b999-62f89b0dae79" />
 
 
 
   **MODEL GRAPH:**
+  
 <img width="451" height="552" alt="image" src="https://github.com/user-attachments/assets/03bef15d-041e-4f01-a83f-b3b754b77c66" />
 
 
